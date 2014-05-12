@@ -204,4 +204,3 @@ if ( ! class_exists( 'Simple_Release_Notes' ) ) {
     $Simple_Release_Notes = new Simple_Release_Notes();
 }
 
-?>
